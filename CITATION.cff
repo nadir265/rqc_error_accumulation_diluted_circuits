@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the article below."
+title: "Error accumulation in dissipative quantum circuits: simulation code and data"
+type: software
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/nadir265/rqc_error_accumulation_diluted_circuits"
+abstract: >-
+  Python code to simulate random-permutation random quantum circuits with
+  noise, generate the data and reproduce the figures of the article
+  "Error accumulation in dissipative quantum circuits" (arXiv:2609.01848).
+keywords:
+  - random quantum circuits
+  - error accumulation
+  - quantum noise
+  - fidelity decay
+  - open quantum systems
+authors:
+  - family-names: "Samos Sáenz de Buruaga"
+    given-names: "Daniel Nadir"
+    orcid: "https://orcid.org/0000-0003-4360-5854"
+    affiliation: "Universidad de Burgos"
+preferred-citation:
+  type: article
+  title: "Error accumulation in dissipative quantum circuits"
+  authors:
+    - family-names: "Samos Sáenz de Buruaga"
+      given-names: "Daniel Nadir"
+      orcid: "https://orcid.org/0000-0003-4360-5854"
+    - family-names: "Pereira"
+      given-names: "R. M. C."
+    - family-names: "Życzkowski"
+      given-names: "Karol"
+    - family-names: "Denisov"
+      given-names: "Sergey"
+    - family-names: "Ribeiro"
+      given-names: "Pedro"
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2609.01848"
+      description: "arXiv preprint"
+  url: "https://arxiv.org/abs/2609.01848"
