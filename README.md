@@ -1,6 +1,6 @@
 # Reproducibility Package: Random-Permutation RQC Simulations
 
-This package contains the code necessary to reproduce all figures in the paper "Universal Error Accumulation in Dissipative Quantum Circuits" by Nadir Samos Sáenz de Buruaga, Rodrigo M.C. Pereira, Sergey Denisov, Karol Zyczkowski and Pedro Ribeiro.
+This package contains the code necessary to reproduce all figures in the paper "Error Accumulation in Dissipative Quantum Circuits" by Nadir Samos Sáenz de Buruaga, Rodrigo M.C. Pereira, Sergey Denisov, Karol Zyczkowski and Pedro Ribeiro.
 
 Everything is written in Python and requires usual scientific packages.
 ## What Is Included
